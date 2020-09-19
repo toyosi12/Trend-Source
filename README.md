@@ -1,2 +1,6 @@
-# Trend-Source
-This is a twitter bot.
+# Setup
+pip install python-dotenv
+pip install tweepy
+cp .env.example .env
+
+
