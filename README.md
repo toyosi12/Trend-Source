@@ -8,7 +8,6 @@ Trend Source is a twitter bot
 
 ```bash
 pip install python-dotenv
-pip install python-dotenv
 pip install tweepy
 cp .env.example .env
 ```
